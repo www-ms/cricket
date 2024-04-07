@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Role",
+        "key": "role",
+        "type": "checkbox",
+        "options": [
+            "Bowler",
+            "Batsman",
+            "All Rounder"
+        ]
+    },
+    {
+        "name": "Address",
+        "key": "address",
+        "type": "text",
+        "options": [
+            ""
+        ]
+    },
+    {
+        "name": "Region",
+        "key": "region",
+        "type": "radio",
+        "options": [
+            "North",
+            "East",
+            "South",
+            "West"
+        ]
+    }
+]
